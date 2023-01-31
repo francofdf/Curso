@@ -1,0 +1,23 @@
+html{
+   font-family: 'Noto Sans Display', sans-serif;
+}
+h1 {
+   font-size: 24px;
+   font-weight: bold;
+   text-align: center;
+}
+h5 {
+   font-weight: bold;
+   font-size: 16px;
+   
+}
+ul{
+   text-align: justify;
+}
+p{
+   text-align: justify;
+}
+.ocultar{
+   padding-top: 25px;
+   display: none;
+}
